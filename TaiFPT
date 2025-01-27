@@ -81,193 +81,225 @@ https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/vinhlong1hd.jpg",THVL1 HD - Vĩnh Long 1
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="🇻🇳| Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/vinhlong1hd.jpg"",THVL1 HD - Vĩnh Long 1
 https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8
 
-#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/vinhlong2hd.jpg" ,THVL2 HD - Vĩnh Long 2
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="🇻🇳| Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/vinhlong2hd.jpg" ,THVL2 HD - Vĩnh Long 2
 https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vinhlong3hd" group-title="Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/vinhlong3hd.jpg" ,THVL3 HD - Vĩnh Long 3
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="🇻🇳| Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/vinhlong3hd.jpg" ,THVL3 HD - Vĩnh Long 3
 https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/vinhlong4hd.png",THVL4 HD - Vĩnh Long 4
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="🇻🇳| Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/vinhlong4hd.png",THVL4 HD - Vĩnh Long 4
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="khanhhoa" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/kPu3rSN.png",KTV HD _ TH Khánh Hòa
+
+#EXTINF:0 tvg-id="khanhhoa" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/kPu3rSN.png",KTV HD _ TH Khánh Hòa (HD 8Mbps)
 https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="ninhthuan" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/cx5AaTV.png",NTV HD _ TH Ninh Thuận
+#EXTINF:0 tvg-id="ninhthuan" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/cx5AaTV.png",NTV HD _ TH Ninh Thuận (HD 8Mbps)
 https://live.fptplay53.net/epzsd1/ninhthuan_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="binhthuan" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/Bu1xsiJ.png",BTV HD _ TH Bình Thuận
+#EXTINF:0 tvg-id="binhthuan" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/Bu1xsiJ.png",BTV HD _ TH Bình Thuận (HD 8Mbps)
 https://live.fptplay53.net/epzsd1/binhthuan_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="lamdong" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/Tv0fNk3.png",LTV HD _ TH Lâm Đồng
-https://live.fptplay53.net/epzsd1/lamdong_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:0 tvg-id="binhphuoc1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/DHWoGfP.png",BPTV1 HD _ TH Bình Phước
-https://live.fptplay53.net/epzsd1/binhphuoc1_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:0 tvg-id="binhduong1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 HD _ TH Bình Dương
-https://live.fptplay53.net/epzhd2/btv1_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:0 tvg-id="binhduong2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/LpV0d3Q.png",BTV2 HD _ TH Bình Dương
-https://live.fptplay53.net/epzhd2/btv2_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:0 tvg-id="anvienhd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B Channel
-https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:0 tvg-id="dongnai1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/blOZQPI.png",ĐNRTV1 HD _ TH Đồng Nai 1
-https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:0 tvg-id="dongnai2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/tIvmaaX.png",ĐNRTV2 HD _ TH Đồng Nai 2
-https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:0 tvg-id="tayninh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/0DU4cyg.png",TTV11 _ TH Tây Ninh
-https://live.fptplay53.net/epzsd1/tayninhhd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:0 tvg-id="vungtau" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/KX2RMXR.png",BRT HD _ TH Bà Rịa Vũng Tàu
-https://live.fptplay53.net/epzsd1/bariavungtau_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:0 tvg-id="dongthap" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 _ TH Đồng Tháp 1
-https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:0 tvg-id="" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 _ TH Đồng Tháp 2
-https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:0 tvg-id="tiengiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/NkHFZ0D.png",THTG HD _ TH Tiền Giang
-https://live.fptplay53.net/epzsd1/tiengiang_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:0 tvg-id="angiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/2On2R0G.png",ATV HD _ TH An Giang
-https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:0 tvg-id="bentre" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/9UZtJvv.png",THBT HD _ TH Bến Tre
-https://live.fptplay53.net/epzsd1/bentre_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:0 tvg-id="travinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/dHOm6Ll.png",THTV HD _ TH Trà Vinh
-https://live.fptplay53.net/epzsd1/travinh_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:0 tvg-id="haugiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/a3joZFM.png",HGTV HD _ TH Hậu Giang
-https://live.fptplay53.net/epzsd1/haugiang_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:0 tvg-id="kiengiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/jCTogPb.png",KG _ TH Kiên Giang
-https://live.fptplay53.net/epzsd1/kiengiang_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:0 tvg-id="baclieu" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/FoAzh3R.png",BLTV HD _ TH Bạc Liêu
-https://live.fptplay53.net/epzsd1/baclieu_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:0 tvg-id="camau" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV HD _ TH Cà Mau
-https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:0 tvg-id="cantho" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/NyrxzES.png",THTPCT HD _ TH TP. Cần Thơ
-https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:0 tvg-id="kontum" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/C4yYbbi.png",KRT _ TH Kon Tum
+#EXTINF:0 tvg-id="kontum" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/C4yYbbi.png",KRT _ TH Kon Tum (HD 8Mbps)
 https://live.fptplay53.net/epzsd1/kontum_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="gialai" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/csqFzvA.png",THGL HD _ TH Gia Lai
+#EXTINF:0 tvg-id="gialai" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/csqFzvA.png",THGL HD _ TH Gia Lai (HD 8Mbps)
 https://live.fptplay53.net/epzsd1/gialai_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="daklak" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD _ TH Đắk Lắk
+#EXTINF:0 tvg-id="daklak" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD _ TH Đắk Lắk (HD 8Mbps)
 https://live.fptplay53.net/epzsd1/daklak_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="laocai" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC _ TH Lào Cai
+#EXTINF:0 tvg-id="lamdong" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/Tv0fNk3.png",LTV HD _ TH Lâm Đồng (HD 8Mbps)
+https://live.fptplay53.net/epzsd1/lamdong_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="binhphuoc1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/DHWoGfP.png",BPTV1 HD _ TH Bình Phước (HD 8Mbps)
+https://live.fptplay53.net/epzsd1/binhphuoc1_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="binhduong1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 HD _ TH Bình Dương (HD 8Mbps)
+https://live.fptplay53.net/epzhd2/btv1_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="binhduong2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/LpV0d3Q.png",BTV2 HD _ TH Bình Dương (HD 8Mbps)
+https://live.fptplay53.net/epzhd2/btv2_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="anvienhd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B Channel (HD 8Mbps)
+https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="dongnai1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/blOZQPI.png",ĐNRTV1 HD _ TH Đồng Nai (HD 8Mbps)
+https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="dongnai2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/tIvmaaX.png",ĐNRTV2 HD _ TH Đồng Nai (HD 8Mbps)
+https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="tayninh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/0DU4cyg.png",TTV11 _ TH Tây Ninh (HD 8Mbps)
+https://live.fptplay53.net/epzsd1/tayninhhd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="vungtau" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/KX2RMXR.png",BRT HD _ TH Bà Rịa Vũng Tàu (HD 8Mbps)
+https://live.fptplay53.net/epzsd1/bariavungtau_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="dongthap" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 _ TH Đồng Tháp (HD 8Mbps)
+https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:0 tvg-id="" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 Miền Tây (HD 8Mbps)
+https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:0 tvg-id="tiengiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/NkHFZ0D.png",THTG HD _ TH Tiền Giang (HD 8Mbps)
+https://live.fptplay53.net/epzsd1/tiengiang_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="angiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/2On2R0G.png",ATV HD _ TH An Giang (HD 8Mbps)
+https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="bentre" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/9UZtJvv.png",THBT HD _ TH Bến Tre (HD 8Mbps)
+https://live.fptplay53.net/epzsd1/bentre_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="travinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/dHOm6Ll.png",THTV HD _ TH Trà Vinh (HD 8Mbps)
+https://live.fptplay53.net/epzsd1/travinh_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:0 tvg-id="haugiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/a3joZFM.png",HGTV HD _ TH Hậu Giang (HD 8Mbps)
+https://live.fptplay53.net/epzsd1/haugiang_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="kiengiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/jCTogPb.png",KG _ TH Kiên Giang (HD 8Mbps)
+https://live.fptplay53.net/epzsd1/kiengiang_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="baclieu" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/FoAzh3R.png",BLTV HD _ TH Bạc Liêu (HD 8Mbps)
+https://live.fptplay53.net/epzsd1/baclieu_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="camau" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV HD _ TH Cà Mau (HD 8Mbps)
+https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="cantho" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/NyrxzES.png",THTPCT HD _ TH TP. Cần Thơ (HD 8Mbps)
+https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist_b2500000.m3u8
+
+
+#EXTINF:0 tvg-id="laocai" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC _ TH Lào Cai (HD 8Mbps)
 https://live.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="yenbai" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/AELRXuX.png",YTV HD _ TH Yên Bái
+#EXTINF:0 tvg-id="yenbai" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/AELRXuX.png",YTV HD _ TH Yên Bái (HD 8Mbps)
 https://live.fptplay53.net/fnxsd1/yenbai_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="dienbien" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/Rky1N5S.png",ĐTV _ TH Điện Biên
+#EXTINF:0 tvg-id="dienbien" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/Rky1N5S.png",ĐTV _ TH Điện Biên (HD 8Mbps)
 https://live.fptplay53.net/fnxsd1/dienbien_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="hoabinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/cgKnwnX.png",HBTV HD _ TH Hòa Bình
+#EXTINF:0 tvg-id="hoabinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/cgKnwnX.png",HBTV HD _ TH Hòa Bình (HD 8Mbps)
 https://live.fptplay53.net/fnxsd1/hoabinh_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="laichau" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/we3GCjr.png",LTV HD _ TH Lai Châu
+#EXTINF:0 tvg-id="laichau" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/we3GCjr.png",LTV HD _ TH Lai Châu (HD 8Mbps)
 https://live.fptplay53.net/fnxsd1/laichau_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="hagiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/h7uPIEP.png",HGTV _ TH Hà Giang
+#EXTINF:0 tvg-id="hagiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/h7uPIEP.png",HGTV _ TH Hà Giang (HD 8Mbps)
 https://live.fptplay53.net/fnxsd1/hagiang_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="caobang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/YCrYT2p.png",CRTV HD _ TH Cao Bằng
+#EXTINF:0 tvg-id="caobang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/YCrYT2p.png",CRTV HD _ TH Cao Bằng (HD 8Mbps)
 https://live.fptplay53.net/fnxsd1/caobang_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="backan" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/msjevyp.png",TBK HD _ TH Bắc Kạn
+#EXTINF:0 tvg-id="backan" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/msjevyp.png",TBK HD _ TH Bắc Kạn (HD 8Mbps)
 https://live.fptplay53.net/fnxsd1/backan_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="langson" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV HD _ TH Lạng Sơn
+#EXTINF:0 tvg-id="langson" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV HD _ TH Lạng Sơn (HD 8Mbps)
 https://live.fptplay53.net/fnxsd1/langson_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="tuyenquang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/6RPgRE7.png",TTV HD _ TH Tuyên Quang
+#EXTINF:0 tvg-id="tuyenquang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/6RPgRE7.png",TTV HD _ TH Tuyên Quang (HD 8Mbps)
 https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="thainguyen" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/UBcqMiY.png",TN1 HD _ TH Thái Nguyên
+#EXTINF:0 tvg-id="thainguyen" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/UBcqMiY.png",TN1 HD _ TH Thái Nguyên (HD 8Mbps)
 https://live.fptplay53.net/fnxsd1/thainguyen_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="phutho" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD _ TH Phú Thọ
+#EXTINF:0 tvg-id="phutho" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD _ TH Phú Thọ (HD 8Mbps)
 https://live.fptplay53.net/fnxsd1/phutho_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="bacgiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/05t6W7v.png",BGTV _ TH Bắc Giang
+#EXTINF:0 tvg-id="bacgiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/05t6W7v.png",BGTV _ TH Bắc Giang (HD 8Mbps)
 https://live.fptplay53.net/fnxsd1/bacgiang_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="quangninh1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD _ TH Quảng Ninh
+#EXTINF:0 tvg-id="quangninh1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD _ TH Quảng Ninh (HD 8Mbps)
 https://live.fptplay53.net/fnxsd1/quangninh1_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="quangninh3" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD _ TH Quảng Ninh
+#EXTINF:0 tvg-id="quangninh3" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD _ TH Quảng Ninh (HD 8Mbps)
 https://live.fptplay53.net/fnxsd1/quangninh3_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="bacninh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/zUFSFCV.png",BTV _ TH Bắc Ninh
+#EXTINF:0 tvg-id="bacninh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/zUFSFCV.png",BTV _ TH Bắc Ninh (HD 8Mbps)
 https://live.fptplay53.net/fnxsd1/bacninh_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="hanoi1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH Hà Nội
+#EXTINF:0 tvg-id="hanoi1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH Hà Nội (HD 8Mbps)
 https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="hanoi2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD _ TH Hà Nội
+#EXTINF:0 tvg-id="hanoi2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD _ TH Hà Nội (HD 8Mbps)
 https://live.fptplay53.net/fnxhd2/hanoitv2_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="haiduong" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/QmzXd4R.png",THD _ TH Hải Dương
+#EXTINF:0 tvg-id="haiduong" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/QmzXd4R.png",THD _ TH Hải Dương (HD 8Mbps)
 https://live.fptplay53.net/fnxsd1/haiduong_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="haiphong" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/StFk4PA.png",THP HD _ TH TP. Hải Phòng
+#EXTINF:0 tvg-id="haiphong" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/StFk4PA.png",THP HD _ TH TP. Hải Phòng (HD 8Mbps)
 https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="ninhbinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/XuYnZWe.png",NTV HD _ TH Ninh Bình
+#EXTINF:0 tvg-id="ninhbinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/XuYnZWe.png",NTV HD _ TH Ninh Bình (HD 8Mbps)
 https://live.fptplay53.net/fnxsd1/ninhbinh_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="thaibinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/fP7B6A4.png",TBTV HD _ TH Thái Bình
+#EXTINF:0 tvg-id="thaibinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/fP7B6A4.png",TBTV HD _ TH Thái Bình (HD 8Mbps)
 https://live.fptplay53.net/fnxsd1/thaibinh_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="vinhphuc" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/rrxDn5n.png",VP HD _ TH Vĩnh Phúc
+#EXTINF:0 tvg-id="vinhphuc" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/rrxDn5n.png",VP HD _ TH Vĩnh Phúc (HD 8Mbps)
 https://live.fptplay53.net/fnxsd1/vinhphuc_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="nghean" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV HD _ TH Nghệ An
+#EXTINF:0 tvg-id="nghean" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV HD _ TH Nghệ An (HD 8Mbps)
 https://live.fptplay53.net/fnxsd1/nghean_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="hatinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/R4uthe7.png",HTTV HD _ TH Hà Tĩnh
+#EXTINF:0 tvg-id="hatinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/R4uthe7.png",HTTV HD _ TH Hà Tĩnh (HD 8Mbps)
 https://live.fptplay53.net/fnxsd1/hatinh_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="quangtri" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/yIHs2sI.png",QRTV HD _ TH Quảng Trị
+#EXTINF:0 tvg-id="quangtri" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/yIHs2sI.png",QRTV HD _ TH Quảng Trị (HD 8Mbps)
 https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="danang1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/6OWQ8lU.png",DaNangTV1 HD _ TH TP. Đà Nẵng
+#EXTINF:0 tvg-id="danang1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/6OWQ8lU.png",DaNangTV1 HD _ TH TP. Đà Nẵng (HD 8Mbps)
 https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="danang2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/hkzIqEV.png",DaNangTV2 HD _ TH TP. Đà Nẵng
+#EXTINF:0 tvg-id="danang2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/hkzIqEV.png",DaNangTV2 HD _ TH TP. Đà Nẵng (HD 8Mbps)
 https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="quangnam" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/uWHWxZB.png",QRT HD _ TH Quảng Nam
+#EXTINF:0 tvg-id="quangnam" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/uWHWxZB.png",QRT HD _ TH Quảng Nam (HD 8Mbps)
 https://live.fptplay53.net/epzsd1/quangnam_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="quangngai" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/McmKwa8.png",PTQ _ TH Quảng Ngãi
+#EXTINF:0 tvg-id="quangngai" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/McmKwa8.png",PTQ _ TH Quảng Ngãi (HD 8Mbps)
 https://live.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="binhdinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/APCkufv.png",BTV _ TH Bình Định
+#EXTINF:0 tvg-id="binhdinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/APCkufv.png",BTV _ TH Bình Định (HD 8Mbps)
 https://live.fptplay53.net/epzsd1/binhdinh_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="phuyen" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/r2xMHkT.png",PTP HD _ TH Phú Yên
+#EXTINF:0 tvg-id="phuyen" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/r2xMHkT.png",PTP HD _ TH Phú Yên (HD 8Mbps)
 https://live.fptplay53.net/epzsd1/phuyen_hls.smil/chunklist_b2500000.m3u8
 
 
+
+#EXTINF:0 tvg-id="sonla" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/QZT6GIh.png",STV _ TH Sơn La
+https://live.fptplay53.net/fnxsd1/sonla_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="hanam" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/DCSPntI.png",THHN _ TH Hà Nam
+https://live.fptplay53.net/fnxsd1/hanam_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="hungyen" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/deNnP9h.png",HY _ TH Hưng Yên
+https://live.fptplay53.net/fnxsd1/hungyen_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="namdinh" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/qW62XEm.png",NTV _ TH Nam Định
+https://live.fptplay53.net/epzsd1/namdinh_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="thanhhoa" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV _ TH Thanh Hóa
+https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="quangbinh" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/8yOdFDx.png",QBTV _ TH Quảng Bình
+https://live.fptplay53.net/epzsd1/quangbinh_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="hue" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/29px2Qy.png", Huế TV
+https://live.trt.com.vn/TRT-Online/chunklist.m3u8
+
+#EXTINF:0 tvg-id="binhphuoc2" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/CyhvaPs.png",BPTV2 _ TH Bình Phước
+https://live.fptplay53.net/epzsd1/binhphuoc2_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="longan" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/jBWD3It.png",LA34 _ TH Long An
+https://live.fptplay53.net/epzsd1/longan_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="soctrang" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/5KQJoBg.png",STV1 _ TH Sóc Trăng
+https://live.fptplay53.net/epzsd1/soctrang_hls.smil/chunklist_b2500000.m3u8
 
 
 
