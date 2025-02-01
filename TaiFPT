@@ -59,31 +59,33 @@ https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí 
-https://z215ymcm4tliv.vcdn.cloud/s3/hls/vtvcab1/index.m3u8
+https://509942876.r.vtvcdn.com/onplus/GIAITRI_TV_HD/m20_index.m3u8
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt 
-https://z215ymcm4tliv.vcdn.cloud/s3/hls/vtvcab2/index.m3u8
+https://509942876.r.vtvcdn.com/onplus/PHIM_VIET/m20_index.m3u8
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies 
-https://z215ymcm4tliv.vcdn.cloud/s3/hls/vtvcab4/index.m3u8
+https://509942876.r.vtvcdn.com/onplus/VAN_HOA/m20_index.m3u8
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON E Channel 
-https://z215ymcm4tliv.vcdn.cloud/s3/hls/vtvcab5/index.m3u8
+https://509942876.r.vtvcdn.com/onplus/E_CHANNEL/m30_index.m3u8
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/nqwVkmM.png",ON O2TV
-https://z215ymcm4tliv.vcdn.cloud/s3/hls/vtvcab7/index.m3u8
+https://509942876.r.vtvcdn.com/onplus/O2_TV/m30_index.m3u8
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi
-https://z215ymcm4tliv.vcdn.cloud/s3/hls/vtvcab8/index.m3u8
+https://509942876.r.vtvcdn.com/onplus/BIBI/m20_index.m3u8
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/jp57P0v.png",ON Info TV
-https://z215ymcm4tliv.vcdn.cloud/s3/hls/vtvcab9/index.m3u8
+https://509942876.r.vtvcdn.com/onplus/INFO_TV/m20_index.m3u8
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/6f9ngwY.png",ON Cine
-https://z215ymcm4tliv.vcdn.cloud/s3/hls/vtvcab10/index.m3u8
+https://509942876.r.vtvcdn.com/onplus/FILM_TV/m20_index.m3u8
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/6LQ0Z1O.png",ON Style TV
-https://z215ymcm4tliv.vcdn.cloud/s3/hls/vtvcab12/index.m3u8
+https://509942876.r.vtvcdn.com/onplus/STYLE_TV_HD/m30_index.m3u8
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music 
-https://z215ymcm4tliv.vcdn.cloud/s3/hls/vtvcab15/index.m3u8
+https://509942876.r.vtvcdn.com/onplus/M_CHANNEL/m10_index.m3u8
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV
-https://z215ymcm4tliv.vcdn.cloud/s3/hls/vtvcab17/index.m3u8
+https://509942876.r.vtvcdn.com/onplus/YEAH1_TV/m30_index.m3u8
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
 https://z215ymcm4tliv.vcdn.cloud/s3/hls/vtvcab19/index.m3u8
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
-https://z215ymcm4tliv.vcdn.cloud/s3/hls/vtvcab20/index.m3u8
+https://509942876.r.vtvcdn.com/onplus/VFAMILY/m20_index.m3u8
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON Kids
+https://509942876.r.vtvcdn.com/onplus/BIBI_PLUS_clear/m20_index.m3u8
 
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/3XEFbua.png", ON Kids
 https://509942876.r.vtvcdn.com/onplus/BIBI_PLUS_clear/m20_index.m3u8
